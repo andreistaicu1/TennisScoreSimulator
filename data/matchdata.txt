@@ -1,0 +1,7122 @@
+New Match:
+
+Nadal won the match.
+Federer
+6  6  
+7  7  
+Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 1 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 1 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 3 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 4 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - True
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 5 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 6 - 5 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 6 - 6 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - True
+
+Nadal won the set.
+Federer 6 - 7 Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 0 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - True
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 3 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 5 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 5 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 6 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 6 - 6 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the set.
+Federer 6 - 7 Nadal
+
+-----------------------------------------------------------
+
+New Match:
+
+Federer won the match.
+Federer
+7  7  
+6  6  
+Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 0 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - True
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 1 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 1 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 3 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 4 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 5 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 6 - 5 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Current Game Score:
+Federer 6 - 6 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the set.
+Federer 7 - 6 Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 0 - 1 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 3 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 3 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 5 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 5 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 6 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - True
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 6 - 6 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - True
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the set.
+Federer 7 - 6 Nadal
+
+-----------------------------------------------------------
+
+New Match:
+
+Federer won the match.
+Federer
+6  3  7  
+4  6  6  
+Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 0 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 1 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 3 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 3 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 4 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the set.
+Federer 6 - 4 Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 1 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 3 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - True
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 5 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the set.
+Federer 3 - 6 Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 0 - 1 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 3 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 3 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 4 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 4 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 5 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 5 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - True
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 6 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Current Game Score:
+Federer 6 - 6 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the set.
+Federer 7 - 6 Nadal
+
+-----------------------------------------------------------
+
+New Match:
+
+Federer won the match.
+Federer
+6  7  
+4  6  
+Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 0 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - True
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 1 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 3 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the set.
+Federer 6 - 4 Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 3 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 3 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 4 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 5 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - True
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 6 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 6 - 6 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the set.
+Federer 7 - 6 Nadal
+
+-----------------------------------------------------------
+
+New Match:
+
+Federer won the match.
+Federer
+3  6  6  
+6  4  2  
+Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - True
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 0 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 0 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 3 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 3 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - True
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 4 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 5 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the set.
+Federer 3 - 6 Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 0 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 0 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 1 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 2 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - True
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 3 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 3 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 4 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the set.
+Federer 6 - 4 Nadal
+
+
+Current Game Score:
+Federer 0 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 1 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 2 - 0 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 3 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - True
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 0 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 4 - 1 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - False
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 1 Nadal
+
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - False
+madeServe - False
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Nadal won the point.
+
+winner - 2
+serving - False
+madeServe - True
+ace - False
+doubleFault - False
+
+Current Game Score:
+Federer 5 - 2 Nadal
+
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the point.
+
+winner - 1
+serving - True
+madeServe - True
+ace - False
+doubleFault - False
+
+Federer won the set.
+Federer 6 - 2 Nadal
+
+-----------------------------------------------------------
+
