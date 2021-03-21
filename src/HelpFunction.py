@@ -8,7 +8,7 @@ def who_wins(player):
     ace = False
     double = False
 
-    if (first / 9999) < player.firstPercentage:
+    if (first / 9999) < player.first_percentage:
         first_serve = True
 
     for_point = random.randint(0, 9999) / 10000
@@ -17,17 +17,17 @@ def who_wins(player):
         if for_point < player.ace:
             ace = True
 
-        elif for_point < player.firstServePtsWon:
+        elif for_point < player.first_serve_pts_won:
             pass
 
         else:
             serving = not serving
 
     else:
-        if for_point < player.secondServePtsWon:
+        if for_point < player.second_serve_pts_won:
             pass
 
-        elif for_point > (1 - player.doubleFault):
+        elif for_point > (1 - player.double_fault):
             double = True
             serving = not serving
 
@@ -37,20 +37,39 @@ def who_wins(player):
     return serving, first_serve, ace, double
 
 
-# Count the number of break points (create new game, copy points into game)
-# Or just copy code from
-def break_point_counter(match):
-    pass
+def print_score_match(match):
+    first = 0
+    second = 0
 
+    if match.winner == 1:
+        first = 0
+        second = 1
 
-def match_point_counter(match):
-    pass
+    elif match.winner == 2:
+        first = 1
+        second = 0
 
+    print(match.playerArray[match.winner - 1].name + ' wins: ')
 
-# How badly were they losing (in games, tiebreaks, matches)
-def comeback_adjustor(match):
-    pass
+    score = ''
 
+    for j in match.data:
+        new_array = [j.player1G, j.player2G]
+        tie = -1
 
-def match_value(match):
-    pass
+        if abs(new_array[first] - new_array[second]) == 1:
+            if j.data[-1].player1P > j.data[-1].player2P:
+                tie = j.data[-1].player2P
+            if j.data[-1].player1P < j.data[-1].player2P:
+                tie = j.data[-1].player1P
+
+        score = score + str(new_array[first]) + ' - ' + str(new_array[second])
+
+        if tie != -1:
+            score = score + ' (' + str(tie) + '), '
+        else:
+            score = score + ', '
+
+    print(score)
+
+    print('\n')
