@@ -24,9 +24,9 @@ class Point:
         self.serving = True
         self.toText = {}
 
-        self.madeServe = False
+        self.made_serve = False
         self.ace = False
-        self.doubleFault = False
+        self.double_fault = False
 
     def play_point(self, player1, player2, serving):
 
@@ -37,9 +37,9 @@ class Point:
         while win_point not in self.options:
 
             if serving:
-                answer, self.madeServe, self.ace, self.doubleFault = who_wins(player1)
+                answer, self.made_serve, self.ace, self.double_fault = who_wins(player1)
             else:
-                answer, self.madeServe, self.ace, self.doubleFault = who_wins(player2)
+                answer, self.made_serve, self.ace, self.double_fault = who_wins(player2)
                 answer = not answer
 
             if answer:
@@ -53,6 +53,14 @@ class Point:
             else:
                 self.winner = 0
 
+    def iterate_point(self, data_of_point):
+
+        self.winner = data_of_point['winner']
+        self.made_serve = data_of_point['made_serve']
+        self.serving = data_of_point['serving']
+        self.double_fault = data_of_point['double_fault']
+        self.ace = data_of_point['ace']
+
     def result(self):
 
         return [int(self.winner)]
@@ -61,9 +69,9 @@ class Point:
 
         self.toText['winner'] = self.winner
         self.toText['serving'] = self.serving
-        self.toText['madeServe'] = self.madeServe
+        self.toText['made_serve'] = self.made_serve
         self.toText['ace'] = self.ace
-        self.toText['doubleFault'] = self.doubleFault
+        self.toText['double_fault'] = self.double_fault
 
 
 class Game:
@@ -91,33 +99,37 @@ class Game:
             new_point = Point()
             new_point.play_point(self.playerArray[0], self.playerArray[1], self.serving)
 
-            result = new_point.result()
-            self.data.append(new_point)
+            self.iterate_game(new_point)
 
-            if result[0] == 0:
+    def iterate_game(self, current_point):
+
+        result = current_point.result()
+        self.data.append(current_point)
+
+        if result[0] == 0:
+            self.gameOver = True
+
+        elif result[0] == 1:
+            self.pointsP1 += 1
+
+        else:
+            self.pointsP2 += 1
+
+        if self.pointsP1 == 4 or self.pointsP2 == 4:
+
+            if abs(self.pointsP1 - self.pointsP2) > 1 or not self.ad:
                 self.gameOver = True
 
-            elif result[0] == 1:
-                self.pointsP1 += 1
+                if self.pointsP1 > self.pointsP2:
+                    self.winner = 1
+                else:
+                    self.winner = 2
 
             else:
-                self.pointsP2 += 1
 
-            if self.pointsP1 == 4 or self.pointsP2 == 4:
-
-                if abs(self.pointsP1 - self.pointsP2) > 1 or not self.ad:
-                    self.gameOver = True
-
-                    if self.pointsP1 > self.pointsP2:
-                        self.winner = 1
-                    else:
-                        self.winner = 2
-
-                else:
-
-                    self.deuce = True
-                    self.pointsP1 -= 1
-                    self.pointsP2 -= 1
+                self.deuce = True
+                self.pointsP1 -= 1
+                self.pointsP2 -= 1
 
 
 class Tiebreak:
@@ -142,30 +154,34 @@ class Tiebreak:
             new_point = Point()
             new_point.play_point(self.playerArray[0], self.playerArray[1], self.serving)
 
-            result = new_point.result()
-            self.data.append(new_point)
-
-            if result[0] == 0:
-                self.breaker_over = True
-
-            elif result[0] == 1:
-                self.player1P += 1
-
-            else:
-                self.player2P += 1
-
-            if self.player1P >= 7 or self.player2P >= 7:
-
-                if self.player1P - self.player2P > 1:
-                    self.breaker_over = True
-                    self.winner = 1
-
-                elif self.player2P - self.player1P > 1:
-                    self.breaker_over = True
-                    self.winner = 2
+            self.iterate_breaker(new_point)
 
             if (self.player1P + self.player2P) % 2 == 1:
                 self.serving = not self.serving
+
+    def iterate_breaker(self, current_point):
+
+        result = current_point.result()
+        self.data.append(current_point)
+
+        if result[0] == 0:
+            self.breaker_over = True
+
+        elif result[0] == 1:
+            self.player1P += 1
+
+        else:
+            self.player2P += 1
+
+        if self.player1P >= 7 or self.player2P >= 7:
+
+            if self.player1P - self.player2P > 1:
+                self.breaker_over = True
+                self.winner = 1
+
+            elif self.player2P - self.player1P > 1:
+                self.breaker_over = True
+                self.winner = 2
 
 
 class Set:
@@ -243,6 +259,9 @@ class Set:
 
                 self.serving = not self.serving
 
+    def iterate_set(self, current_game):
+        pass
+
 
 class Match:
 
@@ -291,23 +310,26 @@ class Match:
 
             new_set.play_set()
 
-            self.data.append(new_set)
-            result = new_set.winner
+            self.iterate_match(new_set)
 
-            if result == 0:
-                return
+    def iterate_match(self, current_set):
 
-            elif result == 1:
-                self.player1S += 1
+        self.data.append(current_set)
+        result = current_set.winner
 
-            else:
-                self.player2S += 1
+        if result == 0:
+            return
 
-            if self.player1S == self.to_win:
-                self.match_over = True
-                self.winner = 1
+        elif result == 1:
+            self.player1S += 1
 
-            elif self.player2S == self.to_win:
-                self.match_over = True
-                self.winner = 2
+        else:
+            self.player2S += 1
 
+        if self.player1S == self.to_win:
+            self.match_over = True
+            self.winner = 1
+
+        elif self.player2S == self.to_win:
+            self.match_over = True
+            self.winner = 2

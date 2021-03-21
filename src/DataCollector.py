@@ -1,4 +1,5 @@
 from src.AllClasses import *
+from src.HelpFunction import *
 
 
 def print_score_match(match):
@@ -115,17 +116,20 @@ def save_match(match, filename, player1, player2):
     matches_file.close()
 
 
-allMatches = []
+specialMatches = []
 
 federer = Players('Federer', .621, .0647, 0.163, .7155, .5075)
 nadal = Players('Nadal', .683, .0708, .0634, .6975, .5425)
 
-
 for i in range(5):
-    newMatch = Match(federer, nadal, 2, True, 6, True, True)
-    newMatch.play_match()
+    new_match = Match(federer, nadal, 2, True, 6, True, True)
+    new_match.play_match()
     print('done')
-    allMatches.append(newMatch)
 
-for i in allMatches:
+    # if match_value(new_match) > 100:
+    #    specialMatches.append(new_match)
+
+print(len(specialMatches))
+
+for i in specialMatches:
     save_match(i, '../data/matchdata.txt', federer, nadal)
