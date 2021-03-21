@@ -3,7 +3,7 @@ from src.Classes.Players import *
 
 
 def save_match(match, filename, player1, player2):
-    matches_file = open(filename, 'a')
+    matches_file = open(filename, 'w')
     player_array = [player1, player2]
 
     for player in player_array:
@@ -11,7 +11,7 @@ def save_match(match, filename, player1, player2):
         player.compile()
 
         for var in player.toText:
-            matches_file.write(f'{var} - {player.toText[var]}')
+            matches_file.write(f'{var} - {player.toText[var]}\n')
 
     for set_played in match.data:
         for game in set_played.data:
@@ -37,7 +37,7 @@ federer = Players('Federer', .621, .0647, 0.163, .7155, .5075)
 nadal = Players('Nadal', .683, .0708, .0634, .6975, .5425)
 
 for i in range(5):
-    new_match = Match(federer, nadal, 2, True, 6, True, True)
+    new_match = Match(federer, nadal, 3, True, 6, True, True)
     new_match.play_match()
     allMatches.append(new_match)
     print('done')
