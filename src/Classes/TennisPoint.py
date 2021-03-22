@@ -1,7 +1,7 @@
 from src.HelpFunction import *
 
 
-class Point:
+class TennisPoint:
 
     def __init__(self):
 

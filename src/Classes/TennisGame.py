@@ -1,16 +1,17 @@
-from src.Classes.Point import *
+from src.Classes.TennisPoint import *
 
 
-class Game:
+class TennisGame:
 
     def __init__(self, player1, player2, serving, ad):
 
-        self.playerArray = [player1, player2]
+        self.player_array = [player1, player2]
         self.serving = serving
         self.ad = ad
 
         self.winner = 0
         self.data = []
+        self.toText = {}
 
         self.pointsP1 = 0
         self.pointsP2 = 0
@@ -22,8 +23,8 @@ class Game:
     def play_game(self):
 
         while not self.gameOver:
-            new_point = Point()
-            new_point.play_point(self.playerArray[0], self.playerArray[1], self.serving)
+            new_point = TennisPoint()
+            new_point.play_point(self.player_array[0], self.player_array[1], self.serving)
 
             self.iterate_game(new_point)
 
@@ -56,3 +57,9 @@ class Game:
                 self.deuce = True
                 self.pointsP1 -= 1
                 self.pointsP2 -= 1
+
+    def compile(self):
+        self.toText['serving'] = self.serving
+
+    def equals(self, another_game):
+        pass

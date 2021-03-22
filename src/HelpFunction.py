@@ -49,7 +49,7 @@ def print_score_match(match):
         first = 1
         second = 0
 
-    print(match.playerArray[match.winner - 1].name + ' wins: ')
+    print(match.player_array[match.winner - 1].name + ' wins: ')
 
     score = ''
 

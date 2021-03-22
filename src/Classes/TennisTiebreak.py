@@ -1,17 +1,18 @@
-from src.Classes.Point import *
+from src.Classes.TennisPoint import *
 
 
-class Tiebreak:
+class TennisTiebreak:
 
     def __init__(self, player1, player2, serving, tiebreak_length):
 
         self.tiebreak_length = tiebreak_length
-        self.playerArray = [player1, player2]
+        self.player_array = [player1, player2]
         self.serving = serving
 
         self.player1P = 0
         self.player2P = 0
         self.data = []
+        self.toText = {}
 
         self.breaker_over = False
         self.winner = -1
@@ -20,8 +21,8 @@ class Tiebreak:
 
         while not self.breaker_over:
 
-            new_point = Point()
-            new_point.play_point(self.playerArray[0], self.playerArray[1], self.serving)
+            new_point = TennisPoint()
+            new_point.play_point(self.player_array[0], self.player_array[1], self.serving)
 
             self.iterate_breaker(new_point)
 
@@ -42,7 +43,7 @@ class Tiebreak:
         else:
             self.player2P += 1
 
-        if self.player1P >= 7 or self.player2P >= 7:
+        if self.player1P >= self.tiebreak_length or self.player2P >= self.tiebreak_length:
 
             if self.player1P - self.player2P > 1:
                 self.breaker_over = True
@@ -51,3 +52,7 @@ class Tiebreak:
             elif self.player2P - self.player1P > 1:
                 self.breaker_over = True
                 self.winner = 2
+
+    def compile(self):
+        self.toText['tiebreak_length'] = self.tiebreak_length
+        self.toText['serving'] = self.serving

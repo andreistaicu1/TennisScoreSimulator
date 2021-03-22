@@ -1,7 +1,7 @@
-from src.Classes.Set import *
+from src.Classes.TennisSet import *
 
 
-class Match:
+class TennisMatch:
 
     def __init__(self, player1, player2, to_win, serving, set_length, ad, final_set_breaker):
 
@@ -14,17 +14,13 @@ class Match:
         self.final_set_breaker = final_set_breaker
         self.final_set = False
 
+        self.toText = {}
         self.data = []
         self.winner = 0
         self.player1S = 0
         self.player2S = 0
 
         self.match_over = False
-
-        self.Wimbledon = False
-        self.Australian = False
-        self.Miami = False
-        self.Rome = False
 
     def play_match(self):
 
@@ -40,11 +36,12 @@ class Match:
                 self.final_set = True
 
             if self.final_set_breaker:
-                new_set = Set(self.set_length, self.player_array[0], self.player_array[1], self.ad, self.serving, True)
+                new_set = TennisSet(self.set_length, self.player_array[0], self.player_array[1], self.ad, self.serving,
+                                    True)
 
             else:
-                new_set = Set(self.set_length, self.player_array[0], self.player_array[1], self.ad, self.serving,
-                              not self.final_set)
+                new_set = TennisSet(self.set_length, self.player_array[0], self.player_array[1], self.ad, self.serving,
+                                    not self.final_set)
 
             new_set.play_set()
 
@@ -71,3 +68,11 @@ class Match:
         elif self.player2S == self.to_win:
             self.match_over = True
             self.winner = 2
+
+    def compile(self):
+
+        self.toText['set_length'] = self.set_length
+        self.toText['serving'] = self.serving
+        self.toText['to_win'] = self.to_win
+        self.toText['ad'] = self.ad
+        self.toText['final_set_breaker'] = self.final_set_breaker
