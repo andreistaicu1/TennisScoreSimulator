@@ -149,6 +149,10 @@ def read_match(text_array):
 
 
 def pull_data(filename):
+    """
+    :param filename: string - directing to a txt. file
+    :return: an array of TennisMatch objects
+    """
     matches_array = []
     text_array = [[]]
 

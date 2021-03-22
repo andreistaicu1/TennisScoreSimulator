@@ -16,417 +16,18 @@ name - Nadal
 ]
 (
 set_length - 6
-serving - False
+serving - True
 to_win - 3
 ad - True
 final_set_breaker - True
 )
 (
-serving - False
-will_breaker - True
-(
-(
-serving - True
-(
-winner - 1
-serving - True
-made_serve - True
-ace - True
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
---
-(
-serving - False
-(
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
---
-(
-serving - True
-(
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
---
-(
-serving - False
-(
-winner - 2
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
---
-(
-serving - True
-(
-winner - 2
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - True
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
---
-(
-serving - False
-(
-winner - 1
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
---
-(
-serving - True
-(
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - True
-double_fault - False
--
---
-(
-serving - False
-(
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - True
-double_fault - False
--
---
-(
-serving - True
-(
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - True
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
---
----
-(
 serving - True
 will_breaker - True
 (
 (
-serving - False
-(
-winner - 2
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - True
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
---
-(
 serving - True
 (
-winner - 2
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
 winner - 1
 serving - True
 made_serve - True
@@ -439,31 +40,19 @@ made_serve - True
 ace - False
 double_fault - False
 -
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
 winner - 1
 serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
 made_serve - False
 ace - False
 double_fault - False
 -
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
+winner - 1
 serving - True
 made_serve - True
 ace - False
@@ -475,63 +64,193 @@ serving - False
 (
 winner - 1
 serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
---
-(
-serving - True
-(
-winner - 2
-serving - True
 made_serve - False
 ace - False
 double_fault - True
 -
 winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - True
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
 serving - True
 made_serve - False
 ace - False
@@ -549,15 +268,21 @@ made_serve - True
 ace - True
 double_fault - False
 -
-winner - 2
+winner - 1
 serving - True
 made_serve - True
 ace - False
 double_fault - False
 -
-winner - 2
+winner - 1
 serving - True
-made_serve - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
 ace - False
 double_fault - False
 -
@@ -565,33 +290,27 @@ double_fault - False
 (
 serving - False
 (
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
 winner - 1
 serving - False
-made_serve - False
+made_serve - True
 ace - False
 double_fault - False
 -
 winner - 2
 serving - False
 made_serve - True
-ace - True
+ace - False
 double_fault - False
 -
-winner - 1
+winner - 2
 serving - False
-made_serve - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
 ace - False
 double_fault - False
 -
@@ -606,18 +325,6 @@ double_fault - False
 serving - True
 (
 winner - 1
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
 serving - True
 made_serve - False
 ace - False
@@ -632,24 +339,18 @@ double_fault - True
 winner - 1
 serving - True
 made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
+ace - True
 double_fault - False
 -
 winner - 1
 serving - True
 made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
 ace - False
 double_fault - False
 -
@@ -659,6 +360,18 @@ serving - False
 (
 winner - 1
 serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - True
+-
+winner - 1
+serving - False
 made_serve - False
 ace - False
 double_fault - False
@@ -669,10 +382,149 @@ made_serve - True
 ace - False
 double_fault - False
 -
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
 winner - 2
 serving - False
 made_serve - True
 ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+tiebreak_length - 7
+serving - True
+(
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - True
 double_fault - False
 -
 winner - 2
@@ -694,32 +546,116 @@ serving - False
 will_breaker - True
 (
 (
-serving - True
+serving - False
 (
 winner - 1
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
+serving - False
 made_serve - True
 ace - False
 double_fault - False
 -
 winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
 serving - True
 made_serve - False
 ace - False
 double_fault - False
 -
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
 winner - 2
 serving - True
 made_serve - True
@@ -744,6 +680,437 @@ made_serve - False
 ace - False
 double_fault - False
 -
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+---
+(
+serving - False
+will_breaker - True
+(
+(
+serving - False
+(
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - True
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
 --
 (
 serving - False
@@ -756,16 +1123,431 @@ double_fault - False
 -
 winner - 2
 serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
 made_serve - False
 ace - False
 double_fault - False
 -
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+---
+(
+serving - False
+will_breaker - True
+(
+(
+serving - False
+(
 winner - 1
 serving - False
 made_serve - False
 ace - False
 double_fault - True
 -
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
 winner - 1
 serving - False
 made_serve - False
@@ -780,7 +1562,87 @@ double_fault - False
 -
 winner - 2
 serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
 made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
 ace - False
 double_fault - False
 -
@@ -802,25 +1664,19 @@ double_fault - False
 -
 winner - 1
 serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
 made_serve - False
 ace - False
 double_fault - False
 -
 winner - 2
 serving - True
-made_serve - True
+made_serve - False
 ace - False
 double_fault - False
 -
 winner - 1
 serving - True
-made_serve - False
+made_serve - True
 ace - False
 double_fault - False
 -
@@ -830,25 +1686,13 @@ made_serve - True
 ace - True
 double_fault - False
 -
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
 --
 (
 serving - False
 (
 winner - 1
 serving - False
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - False
+made_serve - True
 ace - False
 double_fault - False
 -
@@ -858,58 +1702,58 @@ made_serve - True
 ace - False
 double_fault - False
 -
-winner - 1
+winner - 2
 serving - False
 made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
 ace - False
 double_fault - False
 -
 winner - 2
 serving - False
 made_serve - True
+ace - True
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - True
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 2
+serving - True
+made_serve - False
 ace - False
 double_fault - False
 -
 winner - 1
-serving - False
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
 made_serve - False
 ace - False
 double_fault - True
 -
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - False
-ace - False
-double_fault - False
--
---
-(
-serving - True
-(
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
 winner - 1
 serving - True
 made_serve - False
@@ -924,7 +1768,25 @@ double_fault - False
 -
 winner - 2
 serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
 made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
 ace - False
 double_fault - False
 -
@@ -932,9 +1794,57 @@ double_fault - False
 (
 serving - False
 (
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
 winner - 2
 serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
 made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
 ace - False
 double_fault - False
 -
@@ -960,7 +1870,13 @@ double_fault - False
 (
 serving - True
 (
-winner - 1
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
 serving - True
 made_serve - True
 ace - False
@@ -984,23 +1900,53 @@ made_serve - True
 ace - False
 double_fault - False
 -
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
 --
 (
 serving - False
 (
 winner - 2
 serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
 made_serve - False
 ace - False
 double_fault - False
 -
 winner - 2
 serving - False
-made_serve - False
+made_serve - True
 ace - False
 double_fault - False
 -
-winner - 1
+winner - 2
 serving - False
 made_serve - True
 ace - False
@@ -1015,19 +1961,7 @@ double_fault - False
 winner - 2
 serving - False
 made_serve - True
-ace - True
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - True
 ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - True
 double_fault - False
 -
 winner - 2
@@ -1040,7 +1974,13 @@ double_fault - False
 (
 serving - True
 (
-winner - 2
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
 serving - True
 made_serve - False
 ace - False
@@ -1052,9 +1992,9 @@ made_serve - True
 ace - False
 double_fault - False
 -
-winner - 2
+winner - 1
 serving - True
-made_serve - True
+made_serve - False
 ace - False
 double_fault - False
 -
@@ -1064,8 +2004,73 @@ made_serve - True
 ace - False
 double_fault - False
 -
+--
+(
+tiebreak_length - 7
+serving - True
+(
 winner - 2
 serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
 made_serve - False
 ace - False
 double_fault - False
@@ -1077,15 +2082,129 @@ serving - True
 will_breaker - True
 (
 (
+serving - True
+(
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
 serving - False
 (
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
 winner - 2
 serving - False
 made_serve - True
 ace - True
 double_fault - False
 -
+--
+(
+serving - True
+(
 winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - True
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
 serving - False
 made_serve - True
 ace - False
@@ -1106,31 +2225,13 @@ double_fault - False
 winner - 2
 serving - False
 made_serve - True
-ace - False
+ace - True
 double_fault - False
 -
 --
 (
 serving - True
 (
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
 winner - 1
 serving - True
 made_serve - True
@@ -1151,128 +2252,10 @@ double_fault - False
 -
 winner - 2
 serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
---
-(
-serving - False
-(
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 1
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
---
-(
-serving - True
-(
-winner - 2
-serving - True
 made_serve - False
 ace - False
 double_fault - False
 -
-winner - 2
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - True
-made_serve - True
-ace - False
-double_fault - False
--
---
-(
-serving - False
-(
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
-winner - 2
-serving - False
-made_serve - True
-ace - False
-double_fault - False
--
---
-(
-serving - True
-(
 winner - 1
 serving - True
 made_serve - True
@@ -1281,25 +2264,7 @@ double_fault - False
 -
 winner - 2
 serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - False
-ace - False
-double_fault - False
--
-winner - 1
-serving - True
-made_serve - False
+made_serve - True
 ace - False
 double_fault - False
 -
@@ -1307,17 +2272,17 @@ double_fault - False
 (
 serving - False
 (
-winner - 1
+winner - 2
 serving - False
-made_serve - True
+made_serve - False
 ace - False
 double_fault - False
 -
 winner - 1
 serving - False
-made_serve - True
+made_serve - False
 ace - False
-double_fault - False
+double_fault - True
 -
 winner - 2
 serving - False
@@ -1337,6 +2302,24 @@ made_serve - True
 ace - False
 double_fault - False
 -
+winner - 1
+serving - False
+made_serve - False
+ace - False
+double_fault - True
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
 winner - 2
 serving - False
 made_serve - True
@@ -1345,7 +2328,149 @@ double_fault - False
 -
 winner - 2
 serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 1
+serving - True
 made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - True
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - True
+(
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 2
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+winner - 1
+serving - True
+made_serve - False
+ace - False
+double_fault - False
+-
+--
+(
+serving - False
+(
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 1
+serving - False
+made_serve - True
+ace - False
+double_fault - False
+-
+winner - 2
+serving - False
+made_serve - True
 ace - False
 double_fault - False
 -
