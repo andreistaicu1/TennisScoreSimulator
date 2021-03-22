@@ -4,6 +4,15 @@ from src.Classes.TennisSet import *
 class TennisMatch:
 
     def __init__(self, player1, player2, to_win, serving, set_length, ad, final_set_breaker):
+        """
+        :param player1: Players object - representing player 1
+        :param player2: Players object - representing player 2
+        :param to_win: Int - must be greater than 0, how many sets to play in order to win
+        :param serving: Boolean - True if player 1 serves first
+        :param set_length: Int - what each set is played to between 1 and 10 (please)
+        :param ad: Boolean - True if ads are played
+        :param final_set_breaker: Boolean - True if a final set breaker is played, false if not
+        """
 
         self.serving = serving
         self.set_length = set_length
@@ -23,6 +32,10 @@ class TennisMatch:
         self.match_over = False
 
     def play_match(self):
+        """
+        Plays through an entire match
+        :return: nothing
+        """
 
         while not self.match_over:
 
@@ -48,6 +61,11 @@ class TennisMatch:
             self.iterate_match(new_set)
 
     def iterate_match(self, current_set):
+        """
+        Updates internal data based on result of the current_set
+        :param current_set: TennisSet object - set to iterate on
+        :return: nothing
+        """
 
         self.data.append(current_set)
         result = current_set.winner

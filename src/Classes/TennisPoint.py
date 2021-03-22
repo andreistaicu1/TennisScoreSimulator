@@ -4,6 +4,9 @@ from src.HelpFunction import *
 class TennisPoint:
 
     def __init__(self):
+        """
+        Instantiates data to generic data
+        """
 
         self.winner = 0
         self.options = ['1', '2', 'q']
@@ -17,6 +20,13 @@ class TennisPoint:
         self.double_fault = False
 
     def play_point(self, player1, player2, serving):
+        """
+        Iterates through a point based on player characteristics
+        :param player1: Players object - representing player 1
+        :param player2: Players object - representing player 2
+        :param serving: Boolean - is player 1 serving?
+        :return: nothing
+        """
 
         self.serving = serving
 
@@ -50,10 +60,18 @@ class TennisPoint:
         self.ace = data_of_point['ace']
 
     def result(self):
+        """
+        Pointless
+        :return: int - 1 if player 1 won the point, 2 if player 2 did, 0 if no one did
+        """
 
         return [int(self.winner)]
 
     def compile(self):
+        """
+        Consolidates internal data in a dictionary that can be easily printed to a text file
+        :return: nothing
+        """
 
         self.toText['winner'] = self.winner
         self.toText['serving'] = self.serving

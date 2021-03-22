@@ -4,6 +4,12 @@ from src.Classes.TennisPoint import *
 class TennisGame:
 
     def __init__(self, player1, player2, serving, ad):
+        """
+        :param player1: Players object - representing player 1
+        :param player2: Players object - representing player 2
+        :param serving: Boolean - True if player 1 serving, False if not
+        :param ad: Boolean - True if ads are played
+        """
 
         self.player_array = [player1, player2]
         self.serving = serving
@@ -21,6 +27,10 @@ class TennisGame:
         self.deuce = False
 
     def play_game(self):
+        """
+        Begins loop that plays out this current game until the game is over
+        :return: Nothing
+        """
 
         while not self.gameOver:
             new_point = TennisPoint()
@@ -29,6 +39,11 @@ class TennisGame:
             self.iterate_game(new_point)
 
     def iterate_game(self, current_point):
+        """
+        Updates internal data characteristics after being given a point
+        :param current_point: TennisPoint object - point to be added to game.data
+        :return: Nothing
+        """
 
         result = current_point.result()
         self.data.append(current_point)
@@ -59,6 +74,10 @@ class TennisGame:
                 self.pointsP2 -= 1
 
     def compile(self):
+        """
+        Creates a dict of data unique to TennisGame class (tbh kinda pointless)
+        :return:
+        """
         self.toText['serving'] = self.serving
 
     def equals(self, another_game):
