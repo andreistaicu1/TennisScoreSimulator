@@ -1,3 +1,6 @@
+"""
+Proof of concept that we can replay matches from an existing match object
+"""
 from src.DataHandling.ReadingData import *
 import time
 
