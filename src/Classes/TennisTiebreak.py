@@ -4,6 +4,12 @@ from src.Classes.TennisPoint import *
 class TennisTiebreak:
 
     def __init__(self, player1, player2, serving, tiebreak_length):
+        """
+        :param player1: Players object - player 1
+        :param player2: Players object - player 2
+        :param serving: Boolean - True if player 1 starts serving first
+        :param tiebreak_length: Int - what the tiebreak is played to
+        """
 
         self.tiebreak_length = tiebreak_length
         self.player_array = [player1, player2]
@@ -18,6 +24,10 @@ class TennisTiebreak:
         self.winner = -1
 
     def play_breaker(self):
+        """
+        Runs the tiebreaker on its own
+        :return: nothing
+        """
 
         while not self.breaker_over:
 
@@ -30,6 +40,11 @@ class TennisTiebreak:
                 self.serving = not self.serving
 
     def iterate_breaker(self, current_point):
+        """
+        Given a point it updates internal data of the tiebreaker
+        :param current_point: TennisPoint object - to be added to the data
+        :return: nothing
+        """
 
         result = current_point.result()
         self.data.append(current_point)
@@ -54,5 +69,9 @@ class TennisTiebreak:
                 self.winner = 2
 
     def compile(self):
+        """
+        Consolidates internal data in a dictionary that can be easily printed to a text file
+        :return: nothing
+        """
         self.toText['tiebreak_length'] = self.tiebreak_length
         self.toText['serving'] = self.serving

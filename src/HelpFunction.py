@@ -2,6 +2,16 @@ import random
 
 
 def who_wins(player):
+    """
+    Given a player it computes who wins the specific point
+    Uses the statistics on the Players object given
+    :param player: Players object of serving player
+    :return: Tuple (serving, first_serve, ace, double_fault)
+        serving: Boolean - True if player won point
+        first_serve: Boolean - True if player made first serve
+        ace: Boolean - True if player hit an ace
+        double_fault: Boolean - True if player double faulted
+    """
     serving = True
     first = random.randint(0, 9999)
     first_serve = False
@@ -38,6 +48,12 @@ def who_wins(player):
 
 
 def print_score_match(match):
+    """
+    Given a match it prints out the score of it to the terminal
+     as in: (6-1, 6-2, 6-3)
+    :param match: TennisMatch object
+    :return: nothing
+    """
     first = 0
     second = 0
 
@@ -70,6 +86,7 @@ def print_score_match(match):
         else:
             score = score + ', '
 
+    score.removesuffix(', ')
     print(score)
 
     print('\n')

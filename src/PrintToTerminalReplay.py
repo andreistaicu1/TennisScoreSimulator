@@ -6,6 +6,13 @@ nadal = Players('Nadal', .683, .0708, .0634, .6975, .5425)
 
 
 def print_game(current_game, one, two):
+    """
+    For each point in the game this prints out the current score
+    :param current_game: TennisGame object
+    :param one: Int - current game score for player 1
+    :param two: Int - current game score for player 2
+    :return: nothing
+    """
     player_1p = 0
     player_2p = 0
     game_over = False
@@ -52,6 +59,11 @@ def print_game(current_game, one, two):
 
 
 def print_tiebreak(current_breaker):
+    """
+    Prints out the score of the breaker point by point
+    :param current_breaker: Current breaker score
+    :return: nothing
+    """
     player_1p = 0
     player_2p = 0
 
@@ -72,6 +84,12 @@ def print_tiebreak(current_breaker):
 
 
 def print_set(current_set, set_num):
+    """
+    Given a set it prints out the contents of the tet
+    :param current_set: TennisSet object
+    :param set_num: which set number is this
+    :return: nothing
+    """
     cur_score_one = 0
     cur_score_two = 0
 
@@ -100,6 +118,11 @@ def print_set(current_set, set_num):
 
 
 def print_match(current_match):
+    """
+    Given a match it prints out the contents of the match point by point
+    :param current_match: TennisMatch object
+    :return: nothing
+    """
     index_m = 1
     for set_ in current_match.data:
         print_set(set_, index_m)

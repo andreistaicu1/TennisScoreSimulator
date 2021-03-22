@@ -5,6 +5,14 @@ from src.Classes.TennisTiebreak import *
 class TennisSet:
 
     def __init__(self, set_length, player1, player2, ad, serving, will_breaker):
+        """
+        :param set_length: int - When the set stops
+        :param player1: Players object - player 1
+        :param player2: Players object - player 2
+        :param ad: Boolean - true if there are ads
+        :param serving: Boolean - true if player 1 serves first
+        :param will_breaker: Boolean - True if there is a breaker in the last set
+        """
 
         self.set_length = set_length
         self.ad = ad
@@ -22,6 +30,10 @@ class TennisSet:
         self.tiebreaker = False
 
     def play_set(self):
+        """
+        Plays the set on its own
+        :return: nothing
+        """
 
         while not self.setOver:
 
@@ -44,6 +56,11 @@ class TennisSet:
                 self.serving = not self.serving
 
     def iterate_set_game(self, current_game):
+        """
+        Given a game, updates internal data
+        :param current_game: TennisGame object - game to be played
+        :return: nothing
+        """
 
         if self.tiebreaker and self.will_breaker:
             return
@@ -72,6 +89,11 @@ class TennisSet:
                 self.setOver = True
 
     def iterate_set_breaker(self, current_breaker):
+        """
+        Given a tiebreaker updates internal data
+        :param current_breaker: TennisTiebreak object
+        :return: nothing
+        """
 
         if self.tiebreaker and self.will_breaker:
 
@@ -90,10 +112,11 @@ class TennisSet:
 
             self.setOver = True
 
-        else:
-            return False
-
     def compile(self):
+        """
+        Consolidates internal data in a dictionary that can be easily printed to a text file
+        :return: nothing
+        """
 
         self.toText['serving'] = self.serving
         self.toText['will_breaker'] = self.will_breaker
