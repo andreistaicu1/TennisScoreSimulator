@@ -45,9 +45,10 @@ def read_player(text_array):
         fragment = line.split()
         recompile[fragment[0]] = fragment[2]
 
-    new_player = Players(recompile['name'], recompile['first_percentage'], recompile['double_fault'], recompile['ace'],
-                         recompile['first_serve_pts_won'], recompile['second_serve_pts_won'],
-                         recompile['first_return_pts_won'], recompile['second_return_pts_won'])
+    new_player = Players(recompile['name'], float(recompile['first_percentage']), float(recompile['double_fault']),
+                         float(recompile['ace']), float(recompile['first_serve_pts_won']),
+                         float(recompile['second_serve_pts_won']), float(recompile['first_return_pts_won']),
+                         float(recompile['second_return_pts_won']))
 
     return new_player
 
@@ -58,8 +59,6 @@ def read_point(text_array):
         fragment = line.split()
         if len(fragment) > 2:
             recompile[fragment[0]] = fragment[2]
-
-    print(recompile)
 
     new_point = TennisPoint()
 
@@ -83,12 +82,12 @@ def read_game(text_array, ad, player1, player2):
         points.append(read_point(point_text))
 
     if len(recompile) == 2:
-        item = TennisTiebreak(player1, player2, recompile['serving'], recompile['tiebreak_length'])
+        item = TennisTiebreak(player1, player2, points[0].serving, int(recompile['tiebreak_length']))
         for point in points:
             item.iterate_breaker(point)
 
     else:
-        item = TennisGame(player1, player2, recompile['serving'], ad)
+        item = TennisGame(player1, player2, points[0].serving, ad)
         for point in points:
             item.iterate_game(point)
 
@@ -109,7 +108,8 @@ def read_set(text_array, ad, set_length, player1, player2):
     for game_text in games_text:
         games_type.append(read_game(game_text, ad, player1, player2))
 
-    current_set = TennisSet(set_length, player1, player2, ad, recompile['serving'], recompile['will_breaker'])
+    current_set = TennisSet(set_length, player1, player2, ad, bool(recompile['serving']),
+                            bool(recompile['will_breaker']))
 
     for game, thing in games_type:
         if thing == TennisGame:
@@ -122,9 +122,15 @@ def read_set(text_array, ad, set_length, player1, player2):
 
 def read_match(text_array):
     end = 0
-    player1_text, end = get_between_char(text_array[end:], '[', ']')
-    player2_text, end = get_between_char(text_array[end:], '[', ']')
-    match_metadata, end = get_between_char(text_array[end:], '(', ')')
+
+    player1_text, more = get_between_char(text_array[end:], '[', ']')
+    end += more
+
+    player2_text, more = get_between_char(text_array[end:], '[', ']')
+    end += more
+
+    match_metadata, more = get_between_char(text_array[end:], '(', ')')
+    end += more
 
     player1 = read_player(player1_text)
     player2 = read_player(player2_text)
@@ -138,10 +144,10 @@ def read_match(text_array):
     sets = []
 
     for set_text in sets_text:
-        sets.append(read_set(set_text, recompile['ad'], recompile['set_length'], player1, player2))
+        sets.append(read_set(set_text, bool(recompile['ad']), int(recompile['set_length']), player1, player2))
 
-    match = TennisMatch(player1, player2, recompile['to_win'], recompile['serving'], recompile['set_length'],
-                        recompile['ad'], recompile['final_set_breaker'])
+    match = TennisMatch(player1, player2, int(recompile['to_win']), bool(recompile['serving']),
+                        int(recompile['set_length']), bool(recompile['ad']), bool(recompile['final_set_breaker']))
 
     for set_played in sets:
         match.iterate_match(set_played)

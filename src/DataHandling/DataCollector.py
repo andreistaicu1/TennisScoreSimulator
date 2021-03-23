@@ -26,7 +26,7 @@ def save_match(match, filename, player1, player2):
         matches_file.write('(\n')
         for item in set_played.toText:
             matches_file.write(f'{item} - {set_played.toText[item]}\n')
-        matches_file.write('(\n')
+        matches_file.write(')\n')
 
         for game in set_played.data:
 
@@ -35,7 +35,7 @@ def save_match(match, filename, player1, player2):
             matches_file.write('(\n')
             for item in game.toText:
                 matches_file.write(f'{item} - {game.toText[item]}\n')
-            matches_file.write('(\n')
+            matches_file.write(')\n')
 
             for point in game.data:
 
