@@ -86,7 +86,6 @@ def print_score_match(match):
         else:
             score = score + ', '
 
-    score.removesuffix(', ')
     print(score)
 
     print('\n')
