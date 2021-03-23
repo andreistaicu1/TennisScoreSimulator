@@ -46,7 +46,8 @@ def read_player(text_array):
         recompile[fragment[0]] = fragment[2]
 
     new_player = Players(recompile['name'], recompile['first_percentage'], recompile['double_fault'], recompile['ace'],
-                         recompile['first_serve_pts_won'], recompile['second_serve_pts_won'])
+                         recompile['first_serve_pts_won'], recompile['second_serve_pts_won'],
+                         recompile['first_return_pts_won'], recompile['second_return_pts_won'])
 
     return new_player
 

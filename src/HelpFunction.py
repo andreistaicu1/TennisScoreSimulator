@@ -1,11 +1,12 @@
 import random
 
 
-def who_wins(player):
+def who_wins(player_serving, player_returning):
     """
     Given a player it computes who wins the specific point
     Uses the statistics on the Players object given
-    :param player: Players object of serving player
+    :param player_serving: Players object of serving player
+    :param player_returning: Player object of returning player
     :return: Tuple (serving, first_serve, ace, double_fault)
         serving: Boolean - True if player won point
         first_serve: Boolean - True if player made first serve
@@ -18,26 +19,29 @@ def who_wins(player):
     ace = False
     double = False
 
-    if (first / 9999) < player.first_percentage:
+    first_won_pts = (player_serving.first_serve_pts_won + (1 - player_returning.first_return_pts_won)) / 2
+    second_won_pts = (player_serving.second_serve_pts_won + (1 - player_returning.second_return_pts_won)) / 2
+
+    if (first / 9999) < player_serving.first_percentage:
         first_serve = True
 
     for_point = random.randint(0, 9999) / 10000
 
     if first_serve:
-        if for_point < player.ace:
+        if for_point < player_serving.ace:
             ace = True
 
-        elif for_point < player.first_serve_pts_won:
+        elif for_point < first_won_pts:
             pass
 
         else:
             serving = not serving
 
     else:
-        if for_point < player.second_serve_pts_won:
+        if for_point < second_won_pts:
             pass
 
-        elif for_point > (1 - player.double_fault):
+        elif for_point > (1 - player_serving.double_fault):
             double = True
             serving = not serving
 

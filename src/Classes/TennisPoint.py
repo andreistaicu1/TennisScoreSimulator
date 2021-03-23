@@ -35,9 +35,9 @@ class TennisPoint:
         while win_point not in self.options:
 
             if serving:
-                answer, self.made_serve, self.ace, self.double_fault = who_wins(player1)
+                answer, self.made_serve, self.ace, self.double_fault = who_wins(player1, player2)
             else:
-                answer, self.made_serve, self.ace, self.double_fault = who_wins(player2)
+                answer, self.made_serve, self.ace, self.double_fault = who_wins(player2, player1)
                 answer = not answer
 
             if answer:
