@@ -24,7 +24,7 @@ def print_game(current_game, one, two):
     for point in current_game.data:
 
         # TIME BOY
-        # time.sleep(.3)
+        time.sleep(.3)
 
         if point.winner == 1:
             player_1p += 1
@@ -70,7 +70,7 @@ def print_tiebreak(current_breaker):
     for point in current_breaker.data:
 
         # TIME BOY
-        # time.sleep(.3)
+        time.sleep(.3)
 
         if point.winner == 1:
             player_1p += 1
