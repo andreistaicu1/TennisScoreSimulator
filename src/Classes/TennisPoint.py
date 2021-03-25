@@ -53,11 +53,11 @@ class TennisPoint:
 
     def iterate_point(self, data_of_point):
 
-        self.winner = data_of_point['winner']
-        self.made_serve = data_of_point['made_serve']
-        self.serving = data_of_point['serving']
-        self.double_fault = data_of_point['double_fault']
-        self.ace = data_of_point['ace']
+        self.winner = int(data_of_point['winner'])
+        self.made_serve = bool(data_of_point['made_serve'])
+        self.serving = bool(data_of_point['serving'])
+        self.double_fault = bool(data_of_point['double_fault'])
+        self.ace = bool(data_of_point['ace'])
 
     def result(self):
         """
