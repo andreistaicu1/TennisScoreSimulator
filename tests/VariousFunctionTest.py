@@ -10,8 +10,8 @@ murray = Players('Murray', .581, .077, .110, .745, .519, .333, .550)
 
 all_matches = []
 
-for i in range(1):
-    new_match = TennisMatch(djokovic, nadal, 3, bool(random.getrandbits(1)), 6, True, True)
+for i in range(1000):
+    new_match = TennisMatch(djokovic, nadal, 2, bool(random.getrandbits(1)), 6, True, True)
     new_match.play_match()
     all_matches.append(new_match)
 
@@ -28,5 +28,5 @@ for match in all_matches:
     else:
         p2 += 1
 
-print(f'Federer won {p1} out of {p1 + p2} matches so {100 * p1 / (p1 + p2)}%')
+print(f'Djokovic won {p1} out of {p1 + p2} matches so {100 * p1 / (p1 + p2)}%')
 print(f'Nadal won {p2} out of {p1 + p2} matches so {100 * p2 / (p1 + p2)}%')

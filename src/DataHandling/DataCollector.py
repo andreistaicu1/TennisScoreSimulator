@@ -1,7 +1,7 @@
 
 
 def save_match(match, filename, player1, player2):
-    matches_file = open(filename, 'w')
+    matches_file = open(filename, 'a')
     player_array = [player1, player2]
 
     for player in player_array:

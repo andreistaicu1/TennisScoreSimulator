@@ -51,7 +51,7 @@ def who_wins(player_serving, player_returning):
     return serving, first_serve, ace, double
 
 
-def print_score_match(match):
+def save_score_match(match):
     """
     Given a match it prints out the score of it to the terminal
      as in: (6-1, 6-2, 6-3)
@@ -68,8 +68,6 @@ def print_score_match(match):
     elif match.winner == 2:
         first = 1
         second = 0
-
-    print(match.player_array[match.winner - 1].name + ' wins: ')
 
     score = ''
 
@@ -90,6 +88,13 @@ def print_score_match(match):
         else:
             score = score + ', '
 
-    print(score)
+    return score
+
+
+def print_score_match(match):
+
+    print(match.player_array[match.winner - 1].name + ' wins: ')
+    print(save_score_match(match))
 
     print('\n')
+

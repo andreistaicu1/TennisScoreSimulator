@@ -21,7 +21,6 @@ def split_text(text, split_char):
 
 
 def get_between_char(text, char_start, char_end):
-
     start = -1
 
     for index in range(len(text)):
@@ -39,7 +38,6 @@ def get_between_char(text, char_start, char_end):
 
 
 def read_player(text_array):
-
     recompile = {}
     for line in text_array:
         fragment = line.split()
@@ -108,10 +106,24 @@ def read_set(text_array, ad, set_length, player1, player2):
     for game_text in games_text:
         games_type.append(read_game(game_text, ad, player1, player2))
 
-    current_set = TennisSet(set_length, player1, player2, ad, bool(recompile['serving']),
-                            bool(recompile['will_breaker']))
+    if recompile['serving'] == 'True':
+        fix_serving = True
+    else:
+        fix_serving = False
+
+    if recompile['will_breaker'] == 'True':
+        fix_will_breaker = True
+    else:
+        fix_will_breaker = False
+
+    current_set = TennisSet(set_length, player1, player2, ad, fix_serving,
+                            fix_will_breaker)
 
     for game, thing in games_type:
+
+        current_set.tiebreaker = current_set.player1G == current_set.player2G and \
+                                 current_set.player1G == current_set.set_length
+
         if thing == TennisGame:
             current_set.iterate_set_game(game)
         else:
@@ -143,11 +155,26 @@ def read_match(text_array):
     sets_text = split_text(text_array[end:], '---')
     sets = []
 
-    for set_text in sets_text:
-        sets.append(read_set(set_text, bool(recompile['ad']), int(recompile['set_length']), player1, player2))
+    if recompile['serving'] == 'True':
+        fix_serving = True
+    else:
+        fix_serving = False
 
-    match = TennisMatch(player1, player2, int(recompile['to_win']), bool(recompile['serving']),
-                        int(recompile['set_length']), bool(recompile['ad']), bool(recompile['final_set_breaker']))
+    if recompile['ad'] == 'True':
+        fix_ad = True
+    else:
+        fix_ad = False
+
+    if recompile['final_set_breaker'] == 'True':
+        fix_final_set_breaker = True
+    else:
+        fix_final_set_breaker = False
+
+    for set_text in sets_text:
+        sets.append(read_set(set_text, fix_ad, int(recompile['set_length']), player1, player2))
+
+    match = TennisMatch(player1, player2, int(recompile['to_win']), fix_serving,
+                        int(recompile['set_length']), fix_ad, fix_final_set_breaker)
 
     for set_played in sets:
         match.iterate_match(set_played)

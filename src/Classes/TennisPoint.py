@@ -54,10 +54,26 @@ class TennisPoint:
     def iterate_point(self, data_of_point):
 
         self.winner = int(data_of_point['winner'])
-        self.made_serve = bool(data_of_point['made_serve'])
-        self.serving = bool(data_of_point['serving'])
-        self.double_fault = bool(data_of_point['double_fault'])
-        self.ace = bool(data_of_point['ace'])
+
+        if data_of_point['made_serve'] == 'True':
+            self.made_serve = True
+        else:
+            self.made_serve = False
+
+        if data_of_point['serving'] == 'True':
+            self.serving = True
+        else:
+            self.serving = False
+
+        if data_of_point['double_fault'] == 'True':
+            self.double_fault = True
+        else:
+            self.double_fault = False
+
+        if data_of_point['ace'] == 'True':
+            self.ace = True
+        else:
+            self.ace = False
 
     def result(self):
         """
@@ -78,3 +94,14 @@ class TennisPoint:
         self.toText['made_serve'] = self.made_serve
         self.toText['ace'] = self.ace
         self.toText['double_fault'] = self.double_fault
+
+    def equals(self, another_point):
+
+        self.compile()
+        another_point.compile()
+
+        for item in self.toText:
+            if self.toText[item] != another_point.toText[item]:
+                return False
+
+        return True
