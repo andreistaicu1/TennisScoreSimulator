@@ -85,13 +85,16 @@ class TennisGame:
         values = [self.serving == another_game.serving, self.ad == another_game.ad, self.winner == another_game.winner,
                   self.pointsP1 == another_game.pointsP1, self.pointsP2 == another_game.pointsP2]
 
-        if len(self.data) == len(another_game.data):
-            for i in range(len(self.data)):
-                if not self.data[i].equals(another_game.data[i]):
-                    return False
-
         for item in values:
             if not item:
                 return False
+
+        if len(self.data) != len(another_game.data):
+            return False
+
+        else:
+            for i in range(len(self.data)):
+                if not self.data[i].equals(another_game.data[i]):
+                    return False
 
         return True

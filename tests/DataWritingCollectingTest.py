@@ -9,10 +9,11 @@ federer = Players('Federer', .621, .0647, 0.163, .7734, .5683, .3254, .5094)
 nadal = Players('Nadal', .683, .0708, .0634, .7207, .5746, .3423, .5534)
 
 for i in range(1000):
-    new_match = TennisMatch(federer, nadal, 3, True, 6, True, False)
+    new_match = TennisMatch(federer, nadal, 2, True, 6, True, True)
     new_match.play_match()
     all_matches.append(new_match)
 
+# Empty the file so that when we write over everything it doesn't fuck up
 matches_file = open('../data/matchdata.txt', 'w')
 matches_file.close()
 
@@ -32,8 +33,13 @@ for i in range(len(matches)):
 
     for j in range(len(matches[i].data)):
         for k in range(len(matches[i].data[j].data)):
-            for l in range(len(matches[i].data[j].data[k].data)):
-                assert matches[i].data[j].data[k].data[l].winner == all_matches[i].data[j].data[k].data[l].winner
+
+            if type(matches[i].data[j].data[k] == TennisGame):
+                assert matches[i].data[j].data[k].equals(all_matches[i].data[j].data[k])
+            
+            else:
+                for l in range(len(matches[i].data[j].data[k].data)):
+                    assert matches[i].data[j].data[k].data[l].winner == all_matches[i].data[j].data[k].data[l].winner
 
     assert a == b
 

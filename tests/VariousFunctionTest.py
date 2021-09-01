@@ -10,7 +10,7 @@ murray = Players('Murray', .581, .077, .110, .745, .519, .333, .550)
 
 all_matches = []
 
-for i in range(1000):
+for i in range(10000):
     new_match = TennisMatch(djokovic, nadal, 2, bool(random.getrandbits(1)), 6, True, True)
     new_match.play_match()
     all_matches.append(new_match)

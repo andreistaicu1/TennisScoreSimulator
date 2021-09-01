@@ -75,3 +75,6 @@ class TennisTiebreak:
         """
         self.toText['tiebreak_length'] = self.tiebreak_length
         self.toText['serving'] = self.serving
+
+    def equals(self, another_tiebreak):
+        return True
